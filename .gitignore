@@ -1,0 +1,16 @@
+# build files
+client/build
+server/*.pyc
+server/**/*.pyc
+static
+templates
+
+# node packages
+client/node_modules
+
+# vscode configurations
+.vscode
+
+# vim tmp files
+**/*~
+**/*.swp
